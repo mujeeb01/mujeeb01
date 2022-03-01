@@ -6,3 +6,5 @@ Specialized in kotlin , Java , MVVM , Room, Retrofit, DI , Sqlite, Admob/huawei 
 
 📫 How to reach me: [https://www.linkedin.com/in/mujeeb-ur-rahman-4651a5127/]
 
+
+[![Mujeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujeeb01)](https://github.com/mujeeb01/github-readme-stats)
