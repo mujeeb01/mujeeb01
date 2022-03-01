@@ -8,3 +8,5 @@ Specialized in kotlin , Java , MVVM , Room, Retrofit, DI , Sqlite, Admob/huawei 
 
 
 [![Mujeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujeeb01)](https://github.com/mujeeb01/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb01&layout=compact)](https://github.com/mujeeb01/github-readme-stats)
